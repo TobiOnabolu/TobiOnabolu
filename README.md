@@ -1,12 +1,11 @@
 <h1 align="center"> Hi there :wave:, I'm Tobi </h1>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/alvin-tobi-onabolu-6a8b66174/"><img src="https://img.shields.io/badge/-Tobi_Onabolu-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white" alt="Linkedin: https://www.linkedin.com/in/ductringn/"></a>
-<a href="https://wakatime.com/@DukeNgn"><img src="https://img.shields.io/badge/Wakatime-DukeNgn-success?&logo=wakatime&style=flat" alt="Wakatime"></a>
+<a href="https://www.linkedin.com/in/alvin-tobi-onabolu-6a8b66174/"><img src="https://img.shields.io/badge/-Tobi_Onabolu-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white" alt="Linkedin: https://www.linkedin.com/in/alvin-tobi-onabolu-6a8b66174/"></a>
 </p>
 <p align="center">
 <img src="https://img.shields.io/badge/Vim-Lover-brightgreen?&logo=Vim">
-<img src="https://komarev.com/ghpvc/?username=DukeNgn&color=blue" alt="view count" />
+<img src="https://komarev.com/ghpvc/?username=TobiOnabolu&color=blue" alt="view count" />
 </p>
 
 
