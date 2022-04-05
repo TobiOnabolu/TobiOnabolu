@@ -12,8 +12,6 @@
   <img src="giphy.gif" alt="animated" />
 </p>
 
-                                            ![](https://github.com/TobiOnabolu/TobiOnabolu/blob/main/giphy.gif)
-
 
 # About me
 
