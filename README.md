@@ -1,26 +1,7 @@
-### Hi there 👋
-
-<!--
-**TobiOnabolu/TobiOnabolu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
-<h1 align="center"> Hi there :wave:, I'm Duc </h1>
+<h1 align="center"> Hi there :wave:, I'm Tobi </h1>
 
 <p align="center">
-<a href="https://www.ducnguyen.dev/"><img src="https://img.shields.io/badge/Portfolio-Duc%20Nguyen-informational" alt="portfolio: https://www.ducnguyen.dev/"></a>
-<a href="https://www.linkedin.com/in/ductringn/"><img src="https://img.shields.io/badge/-Duc_Nguyen-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white" alt="Linkedin: https://www.linkedin.com/in/ductringn/"></a>
+<a href="https://www.linkedin.com/in/alvin-tobi-onabolu-6a8b66174/"><img src="https://img.shields.io/badge/-Tobi_Onabolu-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white" alt="Linkedin: https://www.linkedin.com/in/ductringn/"></a>
 <a href="https://wakatime.com/@DukeNgn"><img src="https://img.shields.io/badge/Wakatime-DukeNgn-success?&logo=wakatime&style=flat" alt="Wakatime"></a>
 </p>
 <p align="center">
