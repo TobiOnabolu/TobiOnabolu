@@ -10,7 +10,7 @@
 
 
 <p align="center">
-<img src="https://media2.giphy.com/media/ChpOyeacGmpQk/giphy.gif?cid=ecf05e479437sz6hlezzflwz6w1mjj8u9o3o7x8psw99zvlj&rid=giphy.gif&ct=g" alt="doggo-to-the-moon">
+<img src="https://giphy.com/embed/7J4P7cUur2DlErijp3" alt="doggo-to-the-moon">
 </p>
 
 <iframe src="https://giphy.com/embed/7J4P7cUur2DlErijp3" width="480" height="261" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/manny-manny404-mannynotfound-7J4P7cUur2DlErijp3">via GIPHY</a></p>
