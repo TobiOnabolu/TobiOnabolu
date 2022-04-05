@@ -9,7 +9,7 @@
 </p>
 
 
-![](https://github.com/TobiOnabolu/TobiOnabolu/blob/main/giphy.gif)
+                                          ![](https://github.com/TobiOnabolu/TobiOnabolu/blob/main/giphy.gif)
 
 
 # About me
