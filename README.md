@@ -1,4 +1,5 @@
-<h1 align="center"> Hello :wave:, I'm Tobi </h1>
+Hello, I’m Tobi 👨🏽‍💻 
+----------------
 
 <p align="center">
 <a href="https://www.linkedin.com/in/alvin-tobi-onabolu-6a8b66174/"><img src="https://img.shields.io/badge/-Tobi_Onabolu-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white" alt="Linkedin: https://www.linkedin.com/in/alvin-tobi-onabolu-6a8b66174/"></a>
