@@ -28,6 +28,8 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="20" height="20"/> 
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" alt="python" width="20" height="20"/> 
 <p align="center">
+  
+  
 - Hobbies & Interests: Gaming, Basketball, Reading, Learning ✍️
 - Favourite Game: Persona5 👾
  
