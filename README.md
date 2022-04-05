@@ -1,4 +1,4 @@
-Hello, I’m Tobi 👨🏽‍💻 
+# Hello, I’m Tobi 👨🏽‍💻 
 ----------------
 
 <p align="center">
@@ -20,10 +20,4 @@ I am a Computer Science student at the University of Wilfrid Laurier University.
 
 Please feel free to reach out to me for any opportunities for collaboration on projects. 
 
-## In the past
-
-
-<p align="center">
-  <img src="https://github.com/TobiOnabolu/TobiOnabolu/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
-</p>
 
