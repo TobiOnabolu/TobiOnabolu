@@ -16,6 +16,8 @@
 # About me
 
 - I am a Computer Science student at the University of Wilfrid Laurier University 📕
+
+
 - I am currently working on: [Crypto Trading Bot](https://github.com/TobiOnabolu/CryptoBot) 💰
 - <p align="left">These are some of the technologies I use:    
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="c" width="20" height="20"/> 
