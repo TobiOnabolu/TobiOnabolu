@@ -8,6 +8,8 @@
 <img src="https://komarev.com/ghpvc/?username=TobiOnabolu&color=blue" alt="view count" />
 </p>
 
+![](https://github.com/TobiOnabolu/TobiOnabolu/blob/main/giphy.gif)
+
 
 <p align="center">
 <img src="https://giphy.com/embed/7J4P7cUur2DlErijp3" alt="doggo-to-the-moon">
