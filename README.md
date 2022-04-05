@@ -8,9 +8,9 @@
 <img src="https://komarev.com/ghpvc/?username=TobiOnabolu&color=blue" alt="view count" />
 </p>
 
-<p align="center">
+
 ![](https://github.com/TobiOnabolu/TobiOnabolu/blob/main/giphy.gif)
-</p>
+
 
 # About me
 
