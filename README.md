@@ -20,7 +20,7 @@
 
 
   
-- Please feel free to reach out to me for any opportunities for collaboration on projects. 
+- Please feel free to reach out to me for any opportunities for collaboration on projects 🤝 
 
 
 <p align="center">
