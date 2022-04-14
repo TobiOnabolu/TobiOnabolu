@@ -37,10 +37,11 @@
  
 - Please feel free to reach out to me for any opportunities for collaboration on projects 🤝 
 
-### Top Languages 
+# Top Languages 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TobiOnabolu)
 
+  
 <p align="center">
   <img src="https://github.com/TobiOnabolu/TobiOnabolu/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
 </p>
